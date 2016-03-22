@@ -1,0 +1,80 @@
+classdef FMinCon < Optimizer.BoxConstrained;
+    
+    properties
+        options;
+        useGradient = 'on';
+        useHessian = 'off';
+        hessianFun = [];
+        algorithm = 'interior-point';
+        outputFun = {}
+    end
+    
+    methods
+        function obj = FMinCon(settings, numParams, lowerBound, upperBound)
+            
+            if(~exist('lowerBound','var'))
+                lowerBound = [];
+            end
+            
+            if(~exist('upperBound','var'))
+                upperBound = [];
+            end
+            
+            obj = obj@Optimizer.BoxConstrained(settings, numParams, lowerBound, upperBound);
+        end
+        
+        function set.useGradient(obj, val)
+            obj.useGradient = val;
+            obj.setOptions();
+        end
+        
+        function set.outputFun(obj, val)
+            obj.outputFun = val;
+            obj.setOptions();
+        end
+        
+        function set.useHessian(obj, val)
+            if(iscell(val))
+                obj.hessianFun = val{2};
+                val = val{1};
+            end
+                
+            if(strcmpi(val,'off'))
+                obj.hessianFun = [];
+                obj.algorithm = 'interior-point';
+            elseif(strcmpi(val,'user-supplied'))
+                if(isempty(obj.hessianFun))
+                    obj.algorithm = 'trust-region-reflective';
+                else
+                    obj.algorithm = 'interior-point';
+                end
+            else
+                error('Unknown option value');
+            end
+            obj.useHessian = val;
+            obj.setOptions();
+        end
+        
+        
+        function setOptions(obj)
+            obj.options = optimset('fminunc');
+            obj.options = optimset(obj.options,'GradObj',obj.useGradient, 'Hessian', obj.useHessian, 'HessFcn', obj.hessianFun ,  'Display','off','MaxFunEvals', obj.maxNumOptiIterations * 5,...
+<<<<<<< HEAD
+<<<<<<< HEAD
+                'Algorithm', obj.algorithm, 'TolX', 1e-8, 'TolFun', 1e-8, 'MaxIter', obj.maxNumOptiIterations);
+=======
+                'Algorithm', obj.algorithm, 'TolX', 1e-8, 'TolFun', 1e-12, 'MaxIter', obj.maxNumOptiIterations, 'OutputFcn',obj.outputFun);
+>>>>>>> 924e75183c66d6a634f87f50e7e9a86d7d445ee1
+=======
+                'Algorithm', obj.algorithm, 'TolX', 1e-12, 'TolFun', 1e-12, 'MaxIter', obj.maxNumOptiIterations, 'OutputFcn',obj.outputFun);
+>>>>>>> 7432d5932a645764e86d46b9a0a12186567a24f6
+        end
+        
+        function [params, val, numIterations] = optimize(obj, func, params)
+            [params, val, ~, output] = fmincon(func, params, [], [], [], [], obj.lowerBound, obj.upperBound, [], obj.options);
+            numIterations = output.iterations;
+        end
+    end
+        
+end
+

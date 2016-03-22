@@ -1,0 +1,6 @@
+Installation Guide:
+
+The policy search toolbox needs Matlab R2012a or a newer version. In order to start the toolbox, we need to mex several c/cpp files. To do so, please call the script mexAll.m in the main directory. 
+
+That should be it. Please consult the Documentation directory for a short description of the toolbox and an overview of the class hierarchy.
+Have fun.

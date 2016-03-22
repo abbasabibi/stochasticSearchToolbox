@@ -1,0 +1,113 @@
+%close all;
+
+%Common.clearClasses();
+%clear all;
+%clc;
+
+%MySQL.mym('closeall');
+error('check whether the script works in the new toolbox!');
+category = 'test';
+experimentName = 'test';
+numTrials = 10;
+numIterations = 20;
+
+configuredTask = Experiments.Tasks.PlanarReachingInfHorizon;
+
+%%
+configuredLearner = Experiments.Learner.StepBasedRKHSREPS('RKHSREPSPeriodic');
+
+% feature configurator
+configuredFeatures = Experiments.Features.FeatureRBFKernelStatesPeriodic;
+configuredActionFeatures = Experiments.Features.FeatureRBFKernelActionsProd;
+
+% action policy configurator
+configuredPolicy = Experiments.ActionPolicies.PeriodicGaussianProcessPolicyConfigurator;
+
+
+evaluationCriterion = Experiments.EvaluationCriterion();
+
+
+
+evaluationCriterion.registerEvaluator(Evaluator.ReturnEvaluatorEvaluationSamplesAverage());
+%evaluationCriterion.registerEvaluator(Evaluator.SaveDataAndTrial());
+
+
+
+evaluate3_policyfrommodel = Experiments.Evaluation(...
+    {'useStateFeaturesForPolicy','settings.RKHSparamsstate',...
+    'settings.RKHSparamsactions','settings.tolSF',
+    'settings.epsilonAction','settings.numSamplesEvaluation','maxNumberKernelSamples',...
+    'settings.numInitialSamplesEpisodes','settings.maxSamples','numJoints',...
+    'desPos','settings.initSigmaActions'},{...
+    false,...
+    [-1e-2 1 -0.6 -0.6 1 -5 -5 1 1 1], ... %0 indicates features should be optimized
+    [-1e-2 1 1 1 1 1 1 1 -50 -50], ... %0 indicates features should be optimized
+     0.0001,...
+     0.5,...
+     100,...
+     10,...% num samples
+     30,...
+     30,...
+     2,... % two joints
+     [0.5 0],... %desired position
+     0.5, ... %sigma actions (fraction of range)
+    %(dataManager, linearfunctionApproximator, varargin)
+    },numIterations,numTrials);
+
+%what is the difference between these two?
+evaluate3_policyfrommodel.setDefaultParameter('settings.maxSizeReferenceSet' , 3000);
+evaluate3_policyfrommodel.setDefaultParameter('maxNumberKernelSamples', 3000);
+evaluate3_policyfrommodel.setDefaultParameter('settings.GPVarianceNoiseFactorActions' ,1/sqrt(2) );
+evaluate3_policyfrommodel.setDefaultParameter('settings.GPVarianceFunctionFactor' ,1/sqrt(2) );
+evaluate3_policyfrommodel.setDefaultParameter('settings.GPInitializer', @Kernels.GPs.GaussianProcess.CreateSquaredExponentialPeriodicGP);
+evaluate3_policyfrommodel.setDefaultParameter('settings.GPLearnerInitializer', @Kernels.Learner.GPHyperParameterLearnerLOOCVLikelihood.CreateWithStandardReferenceSet);
+
+
+
+evaluate_modellearners = Experiments.Evaluation(...
+    {'modelLearner'},...
+    {...
+        @(trial) Learner.ModelLearner.RKHSModelLearner_unc(trial.dataManager, ...
+                ':', trial.stateFeatures,...
+                trial.nextStateFeatures,trial.stateActionFeatures);...
+        @(trial) Learner.ModelLearner.SampleModelLearner(trial.dataManager, ...
+                ':', trial.stateFeatures,...
+                trial.nextStateFeatures,trial.stateActionFeatures);...
+    },numIterations,numTrials);
+
+
+evaluate_samplemodellearner = Experiments.Evaluation(...
+    {'modelLearner'},...
+    {...
+        @(trial) Learner.ModelLearner.SampleModelLearner(trial.dataManager, ...
+                ':', trial.stateFeatures,...
+                trial.nextStateFeatures,trial.stateActionFeatures);...
+    },numIterations,numTrials);
+
+
+evaluate_rkhsmodellearner = Experiments.Evaluation(...
+    {'modelLearner'},...
+    {...
+        @(trial) Learner.ModelLearner.RKHSModelLearner_unc(trial.dataManager, ...
+                ':', trial.stateFeatures,...
+                trial.nextStateFeatures,trial.stateActionFeatures);...
+    },numIterations,numTrials);
+
+
+
+evaluate_reps_rkhs = Experiments.Evaluation.getCartesianProductOf([evaluate3_policyfrommodel, evaluate_rkhsmodellearner]);
+evaluate_reps_sample = Experiments.Evaluation.getCartesianProductOf([evaluate3_policyfrommodel,evaluate_samplemodellearner]);
+evaluate_reps_model = Experiments.Evaluation.getCartesianProductOf([evaluate3_policyfrommodel,evaluate_modellearners]);
+
+ 
+experiment = Experiments.Experiment.createByNameNew(experimentName, category, ...
+    {configuredTask, configuredFeatures, configuredActionFeatures, ...
+    configuredPolicy, configuredLearner}, evaluationCriterion, 5);
+
+
+
+experiment.addEvaluation(evalute_reps);
+
+experiment.startLocal();
+%experiment.startBatch();
+

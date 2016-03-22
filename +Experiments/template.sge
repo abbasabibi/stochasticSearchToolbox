@@ -1,0 +1,11 @@
+#!/bin/bash
+#$ -t 1-§§numJobs§§
+#$ -N §§experimentName§§
+#$ -q default.q
+#$ -cwd
+#$ -M vicen.gomez@upf.edu
+#$ -m a
+
+cd ~/policysearchtoolbox
+
+/soft/MATLAB/R2014a/bin/matlab -singleCompThread -nosplash -nojvm -nodesktop -nodisplay -r "experiment = Experiments.Experiment.getByPath('§§experimentPath§§'); experiment.startCluster($SGE_TASK_ID); exit;"

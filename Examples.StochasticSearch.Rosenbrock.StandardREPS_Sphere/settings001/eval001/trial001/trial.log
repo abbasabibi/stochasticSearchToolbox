@@ -1,0 +1,5001 @@
+STARTING SCENARIO!!
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 1: -353.735548, divKL: 1.000000 
+Number of Effective Samples: 49.979915
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 2: -349.583353, divKL: 1.000000 
+Number of Effective Samples: 49.992505
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 3: -458.707145, divKL: 1.000000 
+Number of Effective Samples: 49.994862
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 4: -214.711873, divKL: 1.000000 
+Number of Effective Samples: 49.677625
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 5: -239.623863, divKL: 1.000000 
+Number of Effective Samples: 49.952044
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 6: -170.309322, divKL: 0.999999 
+Number of Effective Samples: 49.982588
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 7: -231.673262, divKL: 1.000000 
+Number of Effective Samples: 49.277143
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 8: -188.219812, divKL: 1.000000 
+Number of Effective Samples: 49.742993
+Feature Error: , KL: 1.000011
+Accepted solution.
+Found sufficient solution.
+Iteration 9: -139.326506, divKL: 1.000011 
+Number of Effective Samples: 49.993355
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 10: -146.933620, divKL: 1.000000 
+Number of Effective Samples: 49.963428
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 11: -153.785997, divKL: 1.000002 
+Number of Effective Samples: 49.998817
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 12: -137.455353, divKL: 0.999996 
+Number of Effective Samples: 49.955612
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 13: -153.109605, divKL: 1.000000 
+Number of Effective Samples: 49.984202
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 14: -143.345187, divKL: 1.000000 
+Number of Effective Samples: 49.490383
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 15: -141.025990, divKL: 1.000001 
+Number of Effective Samples: 49.998850
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 16: -162.535077, divKL: 0.999999 
+Number of Effective Samples: 49.660486
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 17: -133.139003, divKL: 1.000004 
+Number of Effective Samples: 49.850218
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 18: -141.749002, divKL: 1.000000 
+Number of Effective Samples: 49.782513
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 19: -125.772645, divKL: 1.000000 
+Number of Effective Samples: 49.833963
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 20: -132.883163, divKL: 1.000000 
+Number of Effective Samples: 49.970128
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 21: -140.605238, divKL: 0.999998 
+Number of Effective Samples: 49.930637
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 22: -125.495338, divKL: 1.000000 
+Number of Effective Samples: 49.763737
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 23: -131.147171, divKL: 1.000000 
+Number of Effective Samples: 49.077004
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 24: -125.220419, divKL: 1.000000 
+Number of Effective Samples: 49.737426
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 25: -134.003981, divKL: 1.000001 
+Number of Effective Samples: 49.056479
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 26: -144.892937, divKL: 1.000000 
+Number of Effective Samples: 49.914136
+Feature Error: , KL: 0.999960
+Accepted solution.
+Found sufficient solution.
+Iteration 27: -140.949569, divKL: 0.999960 
+Number of Effective Samples: 49.931844
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 28: -140.207062, divKL: 1.000000 
+Number of Effective Samples: 49.734128
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 29: -136.052719, divKL: 1.000000 
+Number of Effective Samples: 49.384351
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 30: -128.949430, divKL: 1.000000 
+Number of Effective Samples: 49.746940
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 31: -103.074331, divKL: 0.999999 
+Number of Effective Samples: 49.962670
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 32: -155.512976, divKL: 1.000000 
+Number of Effective Samples: 49.032188
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 33: -121.196634, divKL: 0.999995 
+Number of Effective Samples: 49.926161
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 34: -122.030191, divKL: 1.000001 
+Number of Effective Samples: 49.695266
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 35: -138.156872, divKL: 0.999998 
+Number of Effective Samples: 49.883224
+Feature Error: , KL: 0.999973
+Accepted solution.
+Found sufficient solution.
+Iteration 36: -124.300192, divKL: 0.999973 
+Number of Effective Samples: 49.650611
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 37: -101.364647, divKL: 0.999998 
+Number of Effective Samples: 49.857541
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 38: -146.373614, divKL: 1.000000 
+Number of Effective Samples: 49.101120
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 39: -114.891032, divKL: 1.000000 
+Number of Effective Samples: 49.906086
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 40: -121.993412, divKL: 1.000000 
+Number of Effective Samples: 48.738629
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 41: -95.268901, divKL: 0.999999 
+Number of Effective Samples: 49.079543
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 42: -115.527812, divKL: 1.000002 
+Number of Effective Samples: 48.702291
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 43: -120.513529, divKL: 0.999999 
+Number of Effective Samples: 48.951666
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 44: -142.337499, divKL: 1.000002 
+Number of Effective Samples: 48.970868
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 45: -115.719284, divKL: 0.999998 
+Number of Effective Samples: 49.746271
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 46: -122.523278, divKL: 1.000003 
+Number of Effective Samples: 48.295755
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 47: -142.528259, divKL: 1.000000 
+Number of Effective Samples: 49.742101
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 48: -114.897516, divKL: 1.000000 
+Number of Effective Samples: 49.083076
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 49: -128.640920, divKL: 1.000001 
+Number of Effective Samples: 49.246190
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 50: -132.460099, divKL: 1.000000 
+Number of Effective Samples: 49.715415
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 51: -113.489659, divKL: 1.000000 
+Number of Effective Samples: 48.922294
+Feature Error: , KL: 1.000019
+Accepted solution.
+Found sufficient solution.
+Iteration 52: -151.022654, divKL: 1.000019 
+Number of Effective Samples: 48.364124
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 53: -139.019681, divKL: 1.000000 
+Number of Effective Samples: 48.158595
+Feature Error: , KL: 0.999977
+Accepted solution.
+Found sufficient solution.
+Iteration 54: -123.526692, divKL: 0.999977 
+Number of Effective Samples: 48.805921
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 55: -126.123713, divKL: 1.000000 
+Number of Effective Samples: 49.065765
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 56: -142.524275, divKL: 1.000000 
+Number of Effective Samples: 49.343272
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 57: -152.675739, divKL: 1.000000 
+Number of Effective Samples: 49.462217
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 58: -142.982833, divKL: 1.000000 
+Number of Effective Samples: 48.178595
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 59: -140.925494, divKL: 1.000000 
+Number of Effective Samples: 48.522963
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 60: -136.484569, divKL: 0.999998 
+Number of Effective Samples: 49.862940
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 61: -155.385564, divKL: 1.000000 
+Number of Effective Samples: 47.997502
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 62: -121.875014, divKL: 0.999995 
+Number of Effective Samples: 49.276959
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 63: -121.380820, divKL: 1.000000 
+Number of Effective Samples: 49.416195
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 64: -159.140873, divKL: 1.000000 
+Number of Effective Samples: 49.756473
+Feature Error: , KL: 0.999991
+Accepted solution.
+Found sufficient solution.
+Iteration 65: -130.821104, divKL: 0.999991 
+Number of Effective Samples: 49.085849
+Feature Error: , KL: 0.999983
+Accepted solution.
+Found sufficient solution.
+Iteration 66: -114.447708, divKL: 0.999983 
+Number of Effective Samples: 48.061969
+Feature Error: , KL: 1.000011
+Accepted solution.
+Found sufficient solution.
+Iteration 67: -138.719690, divKL: 1.000011 
+Number of Effective Samples: 48.384227
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 68: -163.077613, divKL: 1.000000 
+Number of Effective Samples: 48.271361
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 69: -158.551569, divKL: 1.000000 
+Number of Effective Samples: 49.888846
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 70: -139.966980, divKL: 1.000000 
+Number of Effective Samples: 48.709270
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 71: -151.151455, divKL: 1.000002 
+Number of Effective Samples: 48.810984
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 72: -139.563227, divKL: 1.000000 
+Number of Effective Samples: 49.125688
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 73: -115.044426, divKL: 1.000000 
+Number of Effective Samples: 48.606255
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 74: -129.871389, divKL: 1.000000 
+Number of Effective Samples: 48.083335
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 75: -130.064063, divKL: 1.000000 
+Number of Effective Samples: 48.367700
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 76: -133.724142, divKL: 1.000000 
+Number of Effective Samples: 47.319921
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 77: -104.846350, divKL: 0.999999 
+Number of Effective Samples: 49.873251
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 78: -134.833077, divKL: 1.000000 
+Number of Effective Samples: 48.861467
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 79: -162.637064, divKL: 1.000000 
+Number of Effective Samples: 46.691472
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 80: -128.273199, divKL: 1.000000 
+Number of Effective Samples: 48.102881
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 81: -136.823590, divKL: 1.000000 
+Number of Effective Samples: 47.963629
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 82: -167.343899, divKL: 1.000000 
+Number of Effective Samples: 48.904682
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 83: -152.940428, divKL: 1.000001 
+Number of Effective Samples: 48.125629
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 84: -160.256950, divKL: 1.000000 
+Number of Effective Samples: 47.777509
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 85: -121.949480, divKL: 1.000000 
+Number of Effective Samples: 48.801259
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 86: -131.275099, divKL: 1.000000 
+Number of Effective Samples: 49.332972
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 87: -155.905051, divKL: 1.000000 
+Number of Effective Samples: 48.860548
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 88: -140.533236, divKL: 1.000000 
+Number of Effective Samples: 48.069069
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 89: -125.561123, divKL: 1.000000 
+Number of Effective Samples: 49.730244
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 90: -148.611136, divKL: 1.000002 
+Number of Effective Samples: 48.086056
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 91: -132.559977, divKL: 1.000001 
+Number of Effective Samples: 49.785437
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 92: -137.300484, divKL: 1.000005 
+Number of Effective Samples: 49.285256
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 93: -144.495449, divKL: 1.000000 
+Number of Effective Samples: 49.371097
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 94: -160.652421, divKL: 1.000000 
+Number of Effective Samples: 47.027449
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 95: -128.743573, divKL: 1.000000 
+Number of Effective Samples: 46.447790
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 96: -128.172319, divKL: 1.000000 
+Number of Effective Samples: 47.374329
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 97: -121.738581, divKL: 1.000000 
+Number of Effective Samples: 48.156467
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 98: -103.939992, divKL: 1.000000 
+Number of Effective Samples: 48.366011
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 99: -143.381817, divKL: 1.000002 
+Number of Effective Samples: 48.160787
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 100: -114.596319, divKL: 1.000000 
+Number of Effective Samples: 49.241729
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 101: -155.781919, divKL: 1.000000 
+Number of Effective Samples: 46.216363
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 102: -160.403112, divKL: 1.000001 
+Number of Effective Samples: 47.357521
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 103: -129.717274, divKL: 1.000000 
+Number of Effective Samples: 46.436727
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 104: -137.247427, divKL: 0.999998 
+Number of Effective Samples: 49.404663
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 105: -132.698496, divKL: 1.000000 
+Number of Effective Samples: 49.433598
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 106: -114.765799, divKL: 1.000000 
+Number of Effective Samples: 48.827330
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 107: -135.884845, divKL: 1.000000 
+Number of Effective Samples: 48.709281
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 108: -132.852462, divKL: 1.000000 
+Number of Effective Samples: 49.383573
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 109: -148.962813, divKL: 1.000000 
+Number of Effective Samples: 49.110395
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 110: -166.328894, divKL: 1.000000 
+Number of Effective Samples: 49.206393
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 111: -182.255473, divKL: 1.000000 
+Number of Effective Samples: 47.642323
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 112: -139.525970, divKL: 0.999999 
+Number of Effective Samples: 48.050535
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 113: -128.249228, divKL: 0.999999 
+Number of Effective Samples: 49.960292
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 114: -149.728447, divKL: 1.000000 
+Number of Effective Samples: 47.035928
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 115: -133.547540, divKL: 1.000000 
+Number of Effective Samples: 49.462626
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 116: -133.594992, divKL: 1.000000 
+Number of Effective Samples: 47.615884
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 117: -141.998033, divKL: 1.000000 
+Number of Effective Samples: 48.706181
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 118: -138.517653, divKL: 1.000000 
+Number of Effective Samples: 47.948740
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 119: -154.523256, divKL: 1.000003 
+Number of Effective Samples: 48.010788
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 120: -141.602308, divKL: 0.999999 
+Number of Effective Samples: 48.302701
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 121: -154.883982, divKL: 0.999999 
+Number of Effective Samples: 47.319531
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 122: -159.018025, divKL: 1.000002 
+Number of Effective Samples: 44.776549
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 123: -128.770791, divKL: 1.000000 
+Number of Effective Samples: 48.578771
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 124: -172.824063, divKL: 1.000000 
+Number of Effective Samples: 47.041168
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 125: -164.020367, divKL: 1.000000 
+Number of Effective Samples: 46.095642
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 126: -177.422075, divKL: 1.000000 
+Number of Effective Samples: 47.586096
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 127: -142.286378, divKL: 1.000000 
+Number of Effective Samples: 46.699281
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 128: -158.961448, divKL: 1.000000 
+Number of Effective Samples: 49.307940
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 129: -165.385397, divKL: 1.000000 
+Number of Effective Samples: 47.968384
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 130: -141.549276, divKL: 1.000000 
+Number of Effective Samples: 49.459213
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 131: -131.403624, divKL: 1.000000 
+Number of Effective Samples: 48.586478
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 132: -152.070760, divKL: 1.000000 
+Number of Effective Samples: 48.379185
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 133: -128.954094, divKL: 1.000000 
+Number of Effective Samples: 49.449165
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 134: -154.839858, divKL: 1.000000 
+Number of Effective Samples: 48.606349
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 135: -165.622774, divKL: 1.000000 
+Number of Effective Samples: 46.935838
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 136: -122.902078, divKL: 0.999997 
+Number of Effective Samples: 47.099208
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 137: -146.795796, divKL: 1.000000 
+Number of Effective Samples: 48.509009
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 138: -119.734995, divKL: 1.000000 
+Number of Effective Samples: 48.576065
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 139: -93.993690, divKL: 1.000000 
+Number of Effective Samples: 47.937684
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 140: -114.917319, divKL: 1.000000 
+Number of Effective Samples: 47.347342
+Feature Error: , KL: 1.000013
+Accepted solution.
+Found sufficient solution.
+Iteration 141: -133.896276, divKL: 1.000013 
+Number of Effective Samples: 48.934789
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 142: -166.064891, divKL: 1.000001 
+Number of Effective Samples: 46.225054
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 143: -128.906665, divKL: 1.000000 
+Number of Effective Samples: 48.379398
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 144: -106.128022, divKL: 0.999996 
+Number of Effective Samples: 49.679586
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 145: -144.421241, divKL: 1.000000 
+Number of Effective Samples: 49.132601
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 146: -142.855336, divKL: 1.000000 
+Number of Effective Samples: 48.932414
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 147: -134.752767, divKL: 1.000000 
+Number of Effective Samples: 48.550950
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 148: -139.993375, divKL: 1.000000 
+Number of Effective Samples: 48.713833
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 149: -174.059893, divKL: 1.000000 
+Number of Effective Samples: 48.319234
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 150: -150.588980, divKL: 1.000000 
+Number of Effective Samples: 45.877113
+Feature Error: , KL: 0.999991
+Accepted solution.
+Found sufficient solution.
+Iteration 151: -150.603432, divKL: 0.999991 
+Number of Effective Samples: 47.386624
+Feature Error: , KL: 0.999975
+Accepted solution.
+Found sufficient solution.
+Iteration 152: -100.140185, divKL: 0.999975 
+Number of Effective Samples: 49.024142
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 153: -154.931256, divKL: 1.000001 
+Number of Effective Samples: 48.412070
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 154: -124.376090, divKL: 1.000000 
+Number of Effective Samples: 48.746206
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 155: -133.768622, divKL: 1.000000 
+Number of Effective Samples: 46.564522
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 156: -139.688911, divKL: 1.000000 
+Number of Effective Samples: 48.476124
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 157: -130.040755, divKL: 1.000000 
+Number of Effective Samples: 47.742491
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 158: -124.675468, divKL: 1.000000 
+Number of Effective Samples: 48.622656
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 159: -160.702994, divKL: 1.000000 
+Number of Effective Samples: 48.752202
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 160: -141.907015, divKL: 1.000000 
+Number of Effective Samples: 47.617571
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 161: -123.465510, divKL: 1.000000 
+Number of Effective Samples: 48.959280
+Feature Error: , KL: 1.000012
+Accepted solution.
+Found sufficient solution.
+Iteration 162: -135.573132, divKL: 1.000012 
+Number of Effective Samples: 49.071578
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 163: -133.290467, divKL: 1.000000 
+Number of Effective Samples: 49.508140
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 164: -116.430917, divKL: 1.000000 
+Number of Effective Samples: 48.409812
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 165: -132.976385, divKL: 1.000000 
+Number of Effective Samples: 47.525843
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 166: -127.265025, divKL: 1.000000 
+Number of Effective Samples: 48.580238
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 167: -123.687930, divKL: 1.000000 
+Number of Effective Samples: 48.459674
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 168: -144.933428, divKL: 1.000000 
+Number of Effective Samples: 48.142064
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 169: -97.557276, divKL: 1.000000 
+Number of Effective Samples: 48.881825
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 170: -139.825987, divKL: 1.000000 
+Number of Effective Samples: 49.278074
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 171: -128.194309, divKL: 0.999997 
+Number of Effective Samples: 47.453814
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 172: -130.980003, divKL: 1.000000 
+Number of Effective Samples: 47.197990
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 173: -132.602933, divKL: 1.000000 
+Number of Effective Samples: 48.093454
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 174: -145.696901, divKL: 1.000000 
+Number of Effective Samples: 48.568745
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 175: -149.051081, divKL: 1.000000 
+Number of Effective Samples: 48.385261
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 176: -103.278464, divKL: 1.000000 
+Number of Effective Samples: 47.516885
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 177: -134.340785, divKL: 1.000000 
+Number of Effective Samples: 48.623715
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 178: -139.161153, divKL: 1.000000 
+Number of Effective Samples: 48.194920
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 179: -138.165864, divKL: 1.000000 
+Number of Effective Samples: 48.511851
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 180: -143.273644, divKL: 1.000000 
+Number of Effective Samples: 49.095428
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 181: -158.253212, divKL: 1.000000 
+Number of Effective Samples: 48.420048
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 182: -154.173117, divKL: 1.000000 
+Number of Effective Samples: 48.142920
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 183: -148.953593, divKL: 1.000000 
+Number of Effective Samples: 48.462733
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 184: -145.960610, divKL: 1.000000 
+Number of Effective Samples: 47.297032
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 185: -117.439893, divKL: 1.000000 
+Number of Effective Samples: 48.256679
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 186: -134.723437, divKL: 1.000000 
+Number of Effective Samples: 48.379626
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 187: -139.173883, divKL: 1.000000 
+Number of Effective Samples: 48.129232
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 188: -119.411845, divKL: 0.999995 
+Number of Effective Samples: 48.629044
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 189: -134.218838, divKL: 1.000000 
+Number of Effective Samples: 49.071923
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 190: -132.184657, divKL: 1.000000 
+Number of Effective Samples: 48.065387
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 191: -128.717194, divKL: 1.000000 
+Number of Effective Samples: 48.562094
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 192: -106.534118, divKL: 0.999998 
+Number of Effective Samples: 49.405080
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 193: -119.269904, divKL: 1.000001 
+Number of Effective Samples: 49.679515
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 194: -106.176519, divKL: 1.000000 
+Number of Effective Samples: 48.603498
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 195: -154.565835, divKL: 1.000003 
+Number of Effective Samples: 47.932189
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 196: -139.851036, divKL: 1.000000 
+Number of Effective Samples: 48.528213
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 197: -123.532736, divKL: 1.000000 
+Number of Effective Samples: 48.429810
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 198: -135.383061, divKL: 0.999999 
+Number of Effective Samples: 48.007135
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 199: -125.191022, divKL: 1.000000 
+Number of Effective Samples: 46.808225
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 200: -147.178811, divKL: 1.000000 
+Number of Effective Samples: 45.480145
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 201: -100.241319, divKL: 0.999999 
+Number of Effective Samples: 49.828910
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 202: -130.719609, divKL: 1.000001 
+Number of Effective Samples: 47.128919
+Feature Error: , KL: 0.999970
+Accepted solution.
+Found sufficient solution.
+Iteration 203: -129.108797, divKL: 0.999970 
+Number of Effective Samples: 48.663464
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 204: -139.274371, divKL: 1.000000 
+Number of Effective Samples: 44.645219
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 205: -121.887171, divKL: 1.000000 
+Number of Effective Samples: 48.078409
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 206: -151.090756, divKL: 1.000000 
+Number of Effective Samples: 46.759059
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 207: -139.060467, divKL: 1.000000 
+Number of Effective Samples: 48.683001
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 208: -144.256084, divKL: 1.000000 
+Number of Effective Samples: 48.125675
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 209: -143.559316, divKL: 1.000000 
+Number of Effective Samples: 48.217642
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 210: -142.634860, divKL: 1.000000 
+Number of Effective Samples: 47.784455
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 211: -134.813184, divKL: 1.000000 
+Number of Effective Samples: 45.023044
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 212: -135.743474, divKL: 1.000000 
+Number of Effective Samples: 48.883372
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 213: -137.979795, divKL: 1.000000 
+Number of Effective Samples: 47.554527
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 214: -123.228171, divKL: 0.999999 
+Number of Effective Samples: 49.338968
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 215: -125.740172, divKL: 1.000000 
+Number of Effective Samples: 47.437461
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 216: -141.762505, divKL: 0.999998 
+Number of Effective Samples: 48.786184
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 217: -140.077852, divKL: 1.000000 
+Number of Effective Samples: 48.193742
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 218: -112.592565, divKL: 1.000000 
+Number of Effective Samples: 49.841327
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 219: -137.192876, divKL: 1.000000 
+Number of Effective Samples: 49.226619
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 220: -118.885817, divKL: 1.000000 
+Number of Effective Samples: 48.807357
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 221: -147.886941, divKL: 1.000000 
+Number of Effective Samples: 48.245671
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 222: -147.384827, divKL: 1.000000 
+Number of Effective Samples: 49.240190
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 223: -145.702102, divKL: 1.000000 
+Number of Effective Samples: 49.334839
+Feature Error: , KL: 0.999933
+Accepted solution.
+Found sufficient solution.
+Iteration 224: -138.961824, divKL: 0.999933 
+Number of Effective Samples: 48.332155
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 225: -128.763765, divKL: 1.000002 
+Number of Effective Samples: 47.091349
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 226: -115.393432, divKL: 1.000000 
+Number of Effective Samples: 45.536946
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 227: -108.185354, divKL: 1.000000 
+Number of Effective Samples: 49.841692
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 228: -123.802038, divKL: 1.000000 
+Number of Effective Samples: 48.114290
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 229: -124.440662, divKL: 1.000000 
+Number of Effective Samples: 48.366617
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 230: -136.650772, divKL: 1.000000 
+Number of Effective Samples: 49.086159
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 231: -136.253267, divKL: 1.000000 
+Number of Effective Samples: 48.163800
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 232: -144.597992, divKL: 1.000000 
+Number of Effective Samples: 46.838509
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 233: -116.774835, divKL: 1.000000 
+Number of Effective Samples: 47.981909
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 234: -136.319156, divKL: 1.000000 
+Number of Effective Samples: 48.111287
+Feature Error: , KL: 0.999984
+Accepted solution.
+Found sufficient solution.
+Iteration 235: -123.583171, divKL: 0.999984 
+Number of Effective Samples: 47.326555
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 236: -149.408962, divKL: 1.000000 
+Number of Effective Samples: 48.046627
+Feature Error: , KL: 1.000025
+Accepted solution.
+Found sufficient solution.
+Iteration 237: -148.273362, divKL: 1.000025 
+Number of Effective Samples: 48.238831
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 238: -114.101791, divKL: 1.000000 
+Number of Effective Samples: 49.137783
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 239: -131.138225, divKL: 0.999999 
+Number of Effective Samples: 48.143632
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 240: -135.512018, divKL: 1.000000 
+Number of Effective Samples: 48.235093
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 241: -163.727088, divKL: 1.000000 
+Number of Effective Samples: 46.687652
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 242: -134.768629, divKL: 0.999998 
+Number of Effective Samples: 47.889405
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 243: -143.436030, divKL: 0.999996 
+Number of Effective Samples: 49.117662
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 244: -166.478020, divKL: 1.000000 
+Number of Effective Samples: 47.514046
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 245: -115.694531, divKL: 0.999997 
+Number of Effective Samples: 47.531443
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 246: -143.397239, divKL: 1.000000 
+Number of Effective Samples: 48.363495
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 247: -123.131804, divKL: 0.999999 
+Number of Effective Samples: 47.566936
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 248: -143.305075, divKL: 1.000000 
+Number of Effective Samples: 47.058609
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 249: -111.948455, divKL: 0.999994 
+Number of Effective Samples: 49.117410
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 250: -135.816967, divKL: 1.000000 
+Number of Effective Samples: 49.149038
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 251: -128.385670, divKL: 1.000002 
+Number of Effective Samples: 48.995470
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 252: -133.845982, divKL: 1.000000 
+Number of Effective Samples: 49.472685
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 253: -142.272533, divKL: 1.000000 
+Number of Effective Samples: 47.402432
+Feature Error: , KL: 0.999988
+Accepted solution.
+Found sufficient solution.
+Iteration 254: -120.413559, divKL: 0.999988 
+Number of Effective Samples: 46.878622
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 255: -125.131322, divKL: 1.000001 
+Number of Effective Samples: 48.917374
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 256: -132.283543, divKL: 1.000000 
+Number of Effective Samples: 47.964058
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 257: -150.396219, divKL: 1.000000 
+Number of Effective Samples: 48.174618
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 258: -116.618275, divKL: 1.000000 
+Number of Effective Samples: 49.208903
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 259: -134.604807, divKL: 1.000000 
+Number of Effective Samples: 48.548483
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 260: -147.317802, divKL: 1.000001 
+Number of Effective Samples: 46.354234
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 261: -156.553654, divKL: 1.000000 
+Number of Effective Samples: 49.848375
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 262: -130.036064, divKL: 1.000000 
+Number of Effective Samples: 48.452539
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 263: -141.206489, divKL: 1.000000 
+Number of Effective Samples: 49.738801
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 264: -139.517170, divKL: 1.000001 
+Number of Effective Samples: 49.995249
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 265: -138.176538, divKL: 1.000000 
+Number of Effective Samples: 48.035124
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 266: -135.239878, divKL: 1.000000 
+Number of Effective Samples: 47.164240
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 267: -127.898715, divKL: 1.000000 
+Number of Effective Samples: 49.999998
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 268: -144.941600, divKL: 1.000000 
+Number of Effective Samples: 48.755338
+Feature Error: , KL: 0.999988
+Accepted solution.
+Found sufficient solution.
+Iteration 269: -100.898076, divKL: 0.999988 
+Number of Effective Samples: 49.989990
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 270: -135.286334, divKL: 1.000000 
+Number of Effective Samples: 48.760591
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 271: -124.212455, divKL: 0.999998 
+Number of Effective Samples: 45.637526
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 272: -89.728053, divKL: 1.000000 
+Number of Effective Samples: 49.465878
+Feature Error: , KL: 1.000032
+Accepted solution.
+Found sufficient solution.
+Iteration 273: -147.906827, divKL: 1.000032 
+Number of Effective Samples: 45.926410
+Feature Error: , KL: 0.999986
+Accepted solution.
+Found sufficient solution.
+Iteration 274: -114.781812, divKL: 0.999986 
+Number of Effective Samples: 48.244422
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 275: -146.620897, divKL: 0.999996 
+Number of Effective Samples: 46.936738
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 276: -136.913857, divKL: 1.000000 
+Number of Effective Samples: 47.281473
+Feature Error: , KL: 0.999969
+Accepted solution.
+Found sufficient solution.
+Iteration 277: -116.231042, divKL: 0.999969 
+Number of Effective Samples: 49.539251
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 278: -124.683641, divKL: 1.000000 
+Number of Effective Samples: 47.142187
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 279: -151.015684, divKL: 1.000001 
+Number of Effective Samples: 48.993997
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 280: -152.157268, divKL: 1.000000 
+Number of Effective Samples: 49.040889
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 281: -127.609107, divKL: 1.000000 
+Number of Effective Samples: 47.709083
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 282: -140.995096, divKL: 1.000003 
+Number of Effective Samples: 49.997906
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 283: -140.116944, divKL: 0.999998 
+Number of Effective Samples: 49.358510
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 284: -125.068137, divKL: 1.000000 
+Number of Effective Samples: 46.892044
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 285: -133.845601, divKL: 0.999999 
+Number of Effective Samples: 47.818143
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 286: -125.122922, divKL: 1.000000 
+Number of Effective Samples: 48.947347
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 287: -146.498628, divKL: 1.000003 
+Number of Effective Samples: 47.842640
+Feature Error: , KL: 1.000742
+Accepted solution.
+Found sufficient solution.
+Iteration 288: -104.382300, divKL: 1.000742 
+Number of Effective Samples: 49.994103
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 289: -141.959718, divKL: 1.000001 
+Number of Effective Samples: 49.190384
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 290: -103.612710, divKL: 1.000000 
+Number of Effective Samples: 49.235143
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 291: -159.279213, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 292: -130.854472, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 293: -163.501384, divKL: 1.000000 
+Number of Effective Samples: 49.065842
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 294: -128.666332, divKL: 1.000001 
+Number of Effective Samples: 48.701642
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 295: -148.296608, divKL: 1.000000 
+Number of Effective Samples: 48.728419
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 296: -152.642542, divKL: 1.000000 
+Number of Effective Samples: 47.814471
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 297: -146.896296, divKL: 1.000000 
+Number of Effective Samples: 48.073617
+Feature Error: , KL: 0.999989
+Accepted solution.
+Found sufficient solution.
+Iteration 298: -127.987050, divKL: 0.999989 
+Number of Effective Samples: 46.177306
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 299: -148.549507, divKL: 1.000000 
+Number of Effective Samples: 47.897883
+Feature Error: , KL: 0.999979
+Accepted solution.
+Found sufficient solution.
+Iteration 300: -138.673694, divKL: 0.999979 
+Number of Effective Samples: 49.047444
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 301: -114.743398, divKL: 1.000000 
+Number of Effective Samples: 45.755720
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 302: -109.440699, divKL: 1.000000 
+Number of Effective Samples: 45.918122
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 303: -146.917237, divKL: 1.000000 
+Number of Effective Samples: 47.764204
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 304: -146.910353, divKL: 1.000000 
+Number of Effective Samples: 47.434473
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 305: -154.652011, divKL: 0.999999 
+Number of Effective Samples: 47.917685
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 306: -109.980754, divKL: 1.000000 
+Number of Effective Samples: 47.505933
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 307: -125.404114, divKL: 1.000000 
+Number of Effective Samples: 49.196647
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 308: -130.201999, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 309: -123.683970, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 310: -121.257994, divKL: 1.000000 
+Number of Effective Samples: 49.757952
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 311: -112.599871, divKL: 1.000000 
+Number of Effective Samples: 47.845401
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 312: -150.895700, divKL: 1.000000 
+Number of Effective Samples: 49.937264
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 313: -127.307149, divKL: 1.000000 
+Number of Effective Samples: 48.766914
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 314: -138.492247, divKL: 1.000000 
+Number of Effective Samples: 49.405335
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 315: -131.760562, divKL: 1.000000 
+Number of Effective Samples: 49.999958
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 316: -105.852773, divKL: 1.000000 
+Number of Effective Samples: 49.811849
+Feature Error: , KL: 1.000017
+Accepted solution.
+Found sufficient solution.
+Iteration 317: -140.235201, divKL: 1.000017 
+Number of Effective Samples: 49.936686
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 318: -98.861147, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 319: -143.524387, divKL: 1.000000 
+Number of Effective Samples: 48.382021
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 320: -138.599946, divKL: 1.000000 
+Number of Effective Samples: 47.258229
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 321: -127.731111, divKL: 1.000000 
+Number of Effective Samples: 48.809967
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 322: -169.423166, divKL: 1.000000 
+Number of Effective Samples: 48.625929
+Feature Error: , KL: 0.999977
+Accepted solution.
+Found sufficient solution.
+Iteration 323: -153.342248, divKL: 0.999977 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 324: -125.536166, divKL: 1.000000 
+Number of Effective Samples: 49.316656
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 325: -109.816566, divKL: 1.000000 
+Number of Effective Samples: 49.359585
+Feature Error: , KL: 1.000011
+Accepted solution.
+Found sufficient solution.
+Iteration 326: -122.289736, divKL: 1.000011 
+Number of Effective Samples: 49.558740
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 327: -132.723944, divKL: 1.000000 
+Number of Effective Samples: 48.292754
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 328: -133.101582, divKL: 1.000000 
+Number of Effective Samples: 48.994531
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 329: -122.556006, divKL: 1.000002 
+Number of Effective Samples: 49.745792
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 330: -138.157384, divKL: 1.000000 
+Number of Effective Samples: 49.283685
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 331: -140.063174, divKL: 1.000000 
+Number of Effective Samples: 48.949202
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 332: -162.767838, divKL: 0.999999 
+Number of Effective Samples: 48.350215
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 333: -139.804828, divKL: 1.000000 
+Number of Effective Samples: 47.803988
+Feature Error: , KL: 1.000051
+Accepted solution.
+Found sufficient solution.
+Iteration 334: -140.591208, divKL: 1.000051 
+Number of Effective Samples: 48.609274
+Feature Error: , KL: 1.000016
+Accepted solution.
+Found sufficient solution.
+Iteration 335: -130.480293, divKL: 1.000016 
+Number of Effective Samples: 49.020819
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 336: -134.402574, divKL: 1.000000 
+Number of Effective Samples: 49.354916
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 337: -146.743132, divKL: 1.000000 
+Number of Effective Samples: 48.976989
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 338: -144.060250, divKL: 1.000000 
+Number of Effective Samples: 49.160875
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 339: -122.625839, divKL: 0.999999 
+Number of Effective Samples: 48.879305
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 340: -141.821835, divKL: 1.000000 
+Number of Effective Samples: 49.999962
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 341: -142.620063, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 342: -138.135694, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 343: -119.856953, divKL: 1.000004 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 344: -132.381749, divKL: 1.000007 
+Number of Effective Samples: 49.938883
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 345: -138.913342, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 346: -124.082221, divKL: 0.999997 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 347: -171.744487, divKL: 1.000000 
+Number of Effective Samples: 49.999994
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 348: -117.779162, divKL: 1.000000 
+Number of Effective Samples: 49.977265
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 349: -128.949656, divKL: 0.999999 
+Number of Effective Samples: 48.971209
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 350: -148.926823, divKL: 1.000000 
+Number of Effective Samples: 49.864248
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 351: -144.993031, divKL: 0.999999 
+Number of Effective Samples: 49.888638
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 352: -144.674561, divKL: 0.999999 
+Number of Effective Samples: 49.766908
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 353: -135.584623, divKL: 1.000003 
+Number of Effective Samples: 49.990854
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 354: -139.667400, divKL: 1.000000 
+Number of Effective Samples: 49.999184
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 355: -137.345792, divKL: 1.000000 
+Number of Effective Samples: 49.985739
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 356: -141.325945, divKL: 1.000000 
+Number of Effective Samples: 49.994328
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 357: -119.662519, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 358: -135.374364, divKL: 1.000000 
+Number of Effective Samples: 49.693994
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 359: -131.161470, divKL: 0.999994 
+Number of Effective Samples: 49.993998
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 360: -162.741650, divKL: 1.000000 
+Number of Effective Samples: 48.934870
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 361: -122.428344, divKL: 1.000000 
+Number of Effective Samples: 49.851940
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 362: -141.895265, divKL: 1.000003 
+Number of Effective Samples: 49.985534
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 363: -134.393900, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 364: -156.380465, divKL: 1.000000 
+Number of Effective Samples: 49.931377
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 365: -161.308459, divKL: 1.000000 
+Number of Effective Samples: 49.998786
+Feature Error: , KL: 0.999978
+Accepted solution.
+Found sufficient solution.
+Iteration 366: -166.122046, divKL: 0.999978 
+Number of Effective Samples: 49.907691
+Feature Error: , KL: 0.999993
+Accepted solution.
+Found sufficient solution.
+Iteration 367: -121.231015, divKL: 0.999993 
+Number of Effective Samples: 49.855406
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 368: -163.369963, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 369: -123.991353, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 370: -152.359558, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 371: -141.246577, divKL: 1.000000 
+Number of Effective Samples: 49.999589
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 372: -106.205255, divKL: 1.000002 
+Number of Effective Samples: 49.776625
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 373: -124.111933, divKL: 1.000000 
+Number of Effective Samples: 49.883320
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 374: -128.537087, divKL: 1.000000 
+Number of Effective Samples: 49.967087
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 375: -159.626901, divKL: 1.000000 
+Number of Effective Samples: 49.577403
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 376: -137.292641, divKL: 1.000000 
+Number of Effective Samples: 49.996674
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 377: -150.652140, divKL: 1.000000 
+Number of Effective Samples: 49.823610
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 378: -134.972108, divKL: 1.000000 
+Number of Effective Samples: 49.165113
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 379: -143.205212, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 380: -120.747769, divKL: 1.000000 
+Number of Effective Samples: 49.066573
+Feature Error: , KL: 0.999983
+Accepted solution.
+Found sufficient solution.
+Iteration 381: -108.163348, divKL: 0.999983 
+Number of Effective Samples: 49.999934
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 382: -161.273454, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 383: -144.031550, divKL: 0.999999 
+Number of Effective Samples: 49.601583
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 384: -127.343694, divKL: 1.000000 
+Number of Effective Samples: 49.541700
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 385: -114.490858, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 386: -118.135258, divKL: 1.000000 
+Number of Effective Samples: 49.631539
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 387: -120.055867, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 388: -141.029908, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 389: -130.776436, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 390: -128.547991, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 391: -127.211733, divKL: 1.000000 
+Number of Effective Samples: 49.303941
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 392: -152.410294, divKL: 1.000000 
+Number of Effective Samples: 48.717533
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 393: -132.338940, divKL: 1.000000 
+Number of Effective Samples: 49.843760
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 394: -122.421746, divKL: 1.000000 
+Number of Effective Samples: 49.997704
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 395: -165.565962, divKL: 1.000000 
+Number of Effective Samples: 49.946038
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 396: -138.023961, divKL: 1.000000 
+Number of Effective Samples: 49.999991
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 397: -101.175811, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 398: -113.595999, divKL: 1.000000 
+Number of Effective Samples: 49.999996
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 399: -127.341182, divKL: 1.000008 
+Number of Effective Samples: 49.870734
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 400: -127.507262, divKL: 1.000000 
+Number of Effective Samples: 49.998441
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 401: -116.696465, divKL: 1.000000 
+Number of Effective Samples: 49.992395
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 402: -149.427955, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 403: -120.658344, divKL: 0.999995 
+Number of Effective Samples: 49.517315
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 404: -149.718919, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 405: -158.615281, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000073
+Accepted solution.
+Found sufficient solution.
+Iteration 406: -138.670892, divKL: 1.000073 
+Number of Effective Samples: 49.999954
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 407: -126.574802, divKL: 1.000000 
+Number of Effective Samples: 49.999996
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 408: -139.438492, divKL: 1.000000 
+Number of Effective Samples: 49.520899
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 409: -113.265562, divKL: 1.000000 
+Number of Effective Samples: 49.859051
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 410: -134.722168, divKL: 1.000008 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999983
+Accepted solution.
+Found sufficient solution.
+Iteration 411: -123.113406, divKL: 0.999983 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 412: -127.122465, divKL: 1.000003 
+Number of Effective Samples: 49.999476
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 413: -126.360535, divKL: 1.000000 
+Number of Effective Samples: 49.996153
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 414: -133.884883, divKL: 1.000000 
+Number of Effective Samples: 48.670998
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 415: -104.008143, divKL: 0.999998 
+Number of Effective Samples: 49.881520
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 416: -123.560181, divKL: 1.000000 
+Number of Effective Samples: 49.973791
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 417: -118.641237, divKL: 1.000003 
+Number of Effective Samples: 49.656096
+Feature Error: , KL: 0.999966
+Accepted solution.
+Found sufficient solution.
+Iteration 418: -121.202300, divKL: 0.999966 
+Number of Effective Samples: 49.982800
+Feature Error: , KL: 0.999960
+Accepted solution.
+Found sufficient solution.
+Iteration 419: -129.137114, divKL: 0.999960 
+Number of Effective Samples: 49.529630
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 420: -119.974849, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 421: -131.469279, divKL: 1.000000 
+Number of Effective Samples: 49.391448
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 422: -112.029907, divKL: 1.000001 
+Number of Effective Samples: 49.998219
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 423: -105.642536, divKL: 1.000002 
+Number of Effective Samples: 49.999963
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 424: -134.963368, divKL: 1.000000 
+Number of Effective Samples: 49.200748
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 425: -140.502788, divKL: 1.000000 
+Number of Effective Samples: 49.999834
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 426: -153.379200, divKL: 1.000000 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 0.999984
+Accepted solution.
+Found sufficient solution.
+Iteration 427: -107.137295, divKL: 0.999984 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 428: -119.310514, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 429: -160.341522, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 430: -124.406637, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 431: -135.283274, divKL: 1.000000 
+Number of Effective Samples: 49.992064
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 432: -133.720295, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 433: -123.018498, divKL: 0.999996 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 434: -146.149309, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 435: -137.546114, divKL: 1.000000 
+Number of Effective Samples: 49.985155
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 436: -140.380283, divKL: 1.000000 
+Number of Effective Samples: 49.771594
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 437: -165.247662, divKL: 1.000000 
+Number of Effective Samples: 47.657084
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 438: -119.171361, divKL: 0.999996 
+Number of Effective Samples: 49.827316
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 439: -106.780865, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 440: -153.992824, divKL: 1.000000 
+Number of Effective Samples: 49.998340
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 441: -117.322873, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 442: -120.092960, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999969
+Accepted solution.
+Found sufficient solution.
+Iteration 443: -129.725436, divKL: 0.999969 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 444: -152.951562, divKL: 1.000000 
+Number of Effective Samples: 49.598649
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 445: -108.197557, divKL: 1.000000 
+Number of Effective Samples: 49.999607
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 446: -132.035881, divKL: 1.000000 
+Number of Effective Samples: 49.945501
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 447: -139.104534, divKL: 1.000000 
+Number of Effective Samples: 48.883350
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 448: -130.430803, divKL: 1.000000 
+Number of Effective Samples: 49.991670
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 449: -137.531500, divKL: 1.000000 
+Number of Effective Samples: 49.368898
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 450: -114.897490, divKL: 0.999999 
+Number of Effective Samples: 49.747586
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 451: -166.235103, divKL: 1.000000 
+Number of Effective Samples: 49.990018
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 452: -113.443606, divKL: 1.000000 
+Number of Effective Samples: 49.995591
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 453: -140.978588, divKL: 1.000005 
+Number of Effective Samples: 49.994926
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 454: -125.390159, divKL: 1.000000 
+Number of Effective Samples: 49.452777
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 455: -135.667977, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 456: -136.149608, divKL: 1.000005 
+Number of Effective Samples: 49.999990
+Feature Error: , KL: 0.999971
+Accepted solution.
+Found sufficient solution.
+Iteration 457: -120.828625, divKL: 0.999971 
+Number of Effective Samples: 49.855673
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 458: -122.401120, divKL: 1.000000 
+Number of Effective Samples: 49.998448
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 459: -164.622575, divKL: 0.999999 
+Number of Effective Samples: 49.982703
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 460: -128.493380, divKL: 0.999999 
+Number of Effective Samples: 49.996312
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 461: -112.132718, divKL: 1.000000 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 462: -161.123627, divKL: 1.000000 
+Number of Effective Samples: 49.972916
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 463: -162.410981, divKL: 1.000000 
+Number of Effective Samples: 49.644321
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 464: -132.344378, divKL: 1.000000 
+Number of Effective Samples: 49.999973
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 465: -140.426790, divKL: 0.999998 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 466: -130.164282, divKL: 1.000000 
+Number of Effective Samples: 49.743783
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 467: -150.467872, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 468: -113.372120, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 469: -132.159076, divKL: 1.000002 
+Number of Effective Samples: 48.923993
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 470: -123.822890, divKL: 1.000000 
+Number of Effective Samples: 49.629596
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 471: -125.696519, divKL: 1.000000 
+Number of Effective Samples: 49.265521
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 472: -93.193068, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 473: -127.953128, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 474: -157.803962, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000012
+Accepted solution.
+Found sufficient solution.
+Iteration 475: -114.985311, divKL: 1.000012 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 476: -132.038516, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 477: -120.069304, divKL: 1.000000 
+Number of Effective Samples: 49.163438
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 478: -127.773321, divKL: 1.000001 
+Number of Effective Samples: 49.692128
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 479: -122.664859, divKL: 1.000000 
+Number of Effective Samples: 49.999901
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 480: -119.869459, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 481: -148.807488, divKL: 1.000000 
+Number of Effective Samples: 49.886671
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 482: -137.229777, divKL: 1.000000 
+Number of Effective Samples: 49.598928
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 483: -128.642459, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 484: -138.624925, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000009
+Accepted solution.
+Found sufficient solution.
+Iteration 485: -173.961157, divKL: 1.000009 
+Number of Effective Samples: 48.864418
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 486: -138.599997, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 487: -142.524160, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 488: -148.574466, divKL: 1.000000 
+Number of Effective Samples: 49.998641
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 489: -104.431708, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 490: -130.847973, divKL: 1.000000 
+Number of Effective Samples: 49.997487
+Feature Error: , KL: 1.000010
+Accepted solution.
+Found sufficient solution.
+Iteration 491: -130.602888, divKL: 1.000010 
+Number of Effective Samples: 49.984876
+Feature Error: , KL: 1.000009
+Accepted solution.
+Found sufficient solution.
+Iteration 492: -143.456008, divKL: 1.000009 
+Number of Effective Samples: 49.999988
+Feature Error: , KL: 1.000021
+Accepted solution.
+Found sufficient solution.
+Iteration 493: -117.670574, divKL: 1.000021 
+Number of Effective Samples: 49.864744
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 494: -164.072231, divKL: 1.000001 
+Number of Effective Samples: 49.982845
+Feature Error: , KL: 0.999985
+Accepted solution.
+Found sufficient solution.
+Iteration 495: -123.133433, divKL: 0.999985 
+Number of Effective Samples: 49.990532
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 496: -124.658526, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 497: -134.196976, divKL: 1.000000 
+Number of Effective Samples: 49.995817
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 498: -127.693473, divKL: 1.000000 
+Number of Effective Samples: 49.894491
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 499: -138.834498, divKL: 1.000000 
+Number of Effective Samples: 49.998317
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 500: -138.556503, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 501: -157.948871, divKL: 0.999999 
+Number of Effective Samples: 49.997615
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 502: -103.198162, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 503: -150.926591, divKL: 1.000000 
+Number of Effective Samples: 49.998765
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 504: -147.898233, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 505: -110.077921, divKL: 1.000000 
+Number of Effective Samples: 49.999804
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 506: -134.056470, divKL: 1.000000 
+Number of Effective Samples: 49.966603
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 507: -130.350377, divKL: 1.000000 
+Number of Effective Samples: 49.959848
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 508: -117.082381, divKL: 1.000000 
+Number of Effective Samples: 49.999731
+Feature Error: , KL: 1.000012
+Accepted solution.
+Found sufficient solution.
+Iteration 509: -134.540970, divKL: 1.000012 
+Number of Effective Samples: 49.997041
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 510: -119.413878, divKL: 1.000000 
+Number of Effective Samples: 49.874075
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 511: -118.746874, divKL: 1.000000 
+Number of Effective Samples: 49.423056
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 512: -146.660152, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 513: -130.971386, divKL: 0.999999 
+Number of Effective Samples: 49.999577
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 514: -144.088302, divKL: 1.000000 
+Number of Effective Samples: 49.540043
+Feature Error: , KL: 0.999953
+Accepted solution.
+Found sufficient solution.
+Iteration 515: -134.586877, divKL: 0.999953 
+Number of Effective Samples: 49.999729
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 516: -142.795381, divKL: 1.000000 
+Number of Effective Samples: 49.856091
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 517: -166.987951, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 518: -176.855812, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 519: -157.082954, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 520: -116.061552, divKL: 0.999997 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 521: -142.924983, divKL: 0.999998 
+Number of Effective Samples: 49.642548
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 522: -152.333617, divKL: 1.000000 
+Number of Effective Samples: 49.124152
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 523: -129.398553, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999990
+Accepted solution.
+Found sufficient solution.
+Iteration 524: -122.067920, divKL: 0.999990 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 525: -150.790980, divKL: 1.000000 
+Number of Effective Samples: 48.893419
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 526: -153.003587, divKL: 1.000000 
+Number of Effective Samples: 49.708869
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 527: -106.809646, divKL: 0.999999 
+Number of Effective Samples: 49.720240
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 528: -158.503403, divKL: 1.000000 
+Number of Effective Samples: 49.699703
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 529: -127.532379, divKL: 1.000000 
+Number of Effective Samples: 48.596515
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 530: -154.299880, divKL: 1.000000 
+Number of Effective Samples: 49.602738
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 531: -137.560724, divKL: 1.000000 
+Number of Effective Samples: 49.912160
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 532: -145.383531, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 533: -121.580810, divKL: 1.000000 
+Number of Effective Samples: 49.436989
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 534: -139.249276, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 535: -140.274696, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 536: -143.974010, divKL: 1.000000 
+Number of Effective Samples: 49.356699
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 537: -129.430140, divKL: 1.000000 
+Number of Effective Samples: 49.192546
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 538: -134.459636, divKL: 0.999997 
+Number of Effective Samples: 49.996814
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 539: -125.749311, divKL: 1.000000 
+Number of Effective Samples: 49.311704
+Feature Error: , KL: 0.999890
+Accepted solution.
+Found sufficient solution.
+Iteration 540: -90.391719, divKL: 0.999890 
+Number of Effective Samples: 49.976443
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 541: -143.609227, divKL: 1.000000 
+Number of Effective Samples: 48.808016
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 542: -137.731195, divKL: 0.999995 
+Number of Effective Samples: 49.193724
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 543: -128.050397, divKL: 1.000000 
+Number of Effective Samples: 49.826072
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 544: -114.279779, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 545: -122.474540, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 546: -151.869998, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 547: -113.659700, divKL: 0.999997 
+Number of Effective Samples: 49.999663
+Feature Error: , KL: 1.000006
+Accepted solution.
+Found sufficient solution.
+Iteration 548: -109.964138, divKL: 1.000006 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 549: -116.072628, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 550: -163.926425, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 551: -126.291192, divKL: 1.000000 
+Number of Effective Samples: 49.999987
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 552: -182.611751, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 553: -108.531692, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 554: -114.090245, divKL: 1.000000 
+Number of Effective Samples: 49.999454
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 555: -132.754228, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 556: -135.054131, divKL: 1.000000 
+Number of Effective Samples: 49.999518
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 557: -117.162166, divKL: 1.000000 
+Number of Effective Samples: 49.999847
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 558: -113.967902, divKL: 1.000000 
+Number of Effective Samples: 49.706908
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 559: -132.804695, divKL: 1.000000 
+Number of Effective Samples: 49.999844
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 560: -130.345085, divKL: 1.000000 
+Number of Effective Samples: 48.988038
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 561: -144.800518, divKL: 1.000000 
+Number of Effective Samples: 49.999653
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 562: -128.086348, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 563: -113.732581, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 564: -114.323567, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 565: -130.876702, divKL: 0.999998 
+Number of Effective Samples: 49.991588
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 566: -134.013116, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 567: -100.961056, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 568: -143.704942, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 569: -136.483972, divKL: 1.000000 
+Number of Effective Samples: 49.999960
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 570: -126.580932, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 571: -118.460902, divKL: 1.000000 
+Number of Effective Samples: 49.961917
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 572: -132.613388, divKL: 1.000000 
+Number of Effective Samples: 49.816319
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 573: -110.142458, divKL: 0.999994 
+Number of Effective Samples: 49.999792
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 574: -150.087162, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 575: -151.058447, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999992
+Accepted solution.
+Found sufficient solution.
+Iteration 576: -144.228553, divKL: 0.999992 
+Number of Effective Samples: 49.967849
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 577: -129.583359, divKL: 0.999999 
+Number of Effective Samples: 49.999969
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 578: -115.697764, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 579: -163.196432, divKL: 1.000008 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 580: -141.325181, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 581: -144.554897, divKL: 1.000000 
+Number of Effective Samples: 49.867394
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 582: -141.032635, divKL: 1.000000 
+Number of Effective Samples: 49.328637
+Feature Error: , KL: 0.999992
+Accepted solution.
+Found sufficient solution.
+Iteration 583: -136.120513, divKL: 0.999992 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 584: -137.686996, divKL: 1.000000 
+Number of Effective Samples: 49.998267
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 585: -130.069434, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 586: -151.160584, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 587: -124.690100, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 588: -132.393035, divKL: 1.000003 
+Number of Effective Samples: 49.440523
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 589: -125.972626, divKL: 1.000000 
+Number of Effective Samples: 49.997863
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 590: -147.056765, divKL: 1.000007 
+Number of Effective Samples: 49.998205
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 591: -129.358924, divKL: 0.999999 
+Number of Effective Samples: 49.999871
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 592: -130.821398, divKL: 1.000001 
+Number of Effective Samples: 49.997612
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 593: -153.827869, divKL: 1.000000 
+Number of Effective Samples: 49.168086
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 594: -120.243694, divKL: 0.999994 
+Number of Effective Samples: 49.995040
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 595: -128.340159, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 596: -133.909659, divKL: 0.999995 
+Number of Effective Samples: 49.991499
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 597: -124.034202, divKL: 1.000000 
+Number of Effective Samples: 49.013307
+Feature Error: , KL: 1.000009
+Accepted solution.
+Found sufficient solution.
+Iteration 598: -134.380679, divKL: 1.000009 
+Number of Effective Samples: 49.997848
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 599: -143.893746, divKL: 1.000000 
+Number of Effective Samples: 49.998179
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 600: -144.468649, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 601: -127.112473, divKL: 0.999998 
+Number of Effective Samples: 49.999406
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 602: -122.736573, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 603: -137.534828, divKL: 1.000000 
+Number of Effective Samples: 49.527634
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 604: -138.843591, divKL: 1.000005 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 605: -148.050570, divKL: 1.000001 
+Number of Effective Samples: 49.429983
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 606: -140.612859, divKL: 0.999998 
+Number of Effective Samples: 49.850203
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 607: -113.942636, divKL: 1.000000 
+Number of Effective Samples: 49.982954
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 608: -154.912316, divKL: 1.000004 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 609: -138.392578, divKL: 1.000000 
+Number of Effective Samples: 49.987789
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 610: -164.388550, divKL: 1.000000 
+Number of Effective Samples: 49.981683
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 611: -139.871532, divKL: 1.000000 
+Number of Effective Samples: 49.585138
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 612: -152.502250, divKL: 1.000008 
+Number of Effective Samples: 49.176658
+Feature Error: , KL: 0.999993
+Accepted solution.
+Found sufficient solution.
+Iteration 613: -138.456118, divKL: 0.999993 
+Number of Effective Samples: 49.532347
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 614: -146.381860, divKL: 1.000000 
+Number of Effective Samples: 49.999987
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 615: -156.292955, divKL: 1.000000 
+Number of Effective Samples: 48.790328
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 616: -126.133365, divKL: 1.000000 
+Number of Effective Samples: 49.557117
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 617: -115.567814, divKL: 1.000000 
+Number of Effective Samples: 49.391121
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 618: -127.249577, divKL: 0.999999 
+Number of Effective Samples: 48.742164
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 619: -121.518975, divKL: 1.000000 
+Number of Effective Samples: 49.880353
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 620: -126.871778, divKL: 1.000000 
+Number of Effective Samples: 49.991909
+Feature Error: , KL: 1.000011
+Accepted solution.
+Found sufficient solution.
+Iteration 621: -134.401218, divKL: 1.000011 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 622: -126.087307, divKL: 1.000000 
+Number of Effective Samples: 48.392458
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 623: -144.753389, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 624: -123.677756, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 625: -124.483869, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 626: -125.707022, divKL: 1.000002 
+Number of Effective Samples: 49.990657
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 627: -130.673487, divKL: 1.000002 
+Number of Effective Samples: 48.410770
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 628: -135.887583, divKL: 1.000000 
+Number of Effective Samples: 49.013604
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 629: -139.370819, divKL: 1.000000 
+Number of Effective Samples: 48.378041
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 630: -134.928738, divKL: 1.000000 
+Number of Effective Samples: 49.507808
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 631: -136.496009, divKL: 0.999998 
+Number of Effective Samples: 49.787640
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 632: -146.454990, divKL: 1.000000 
+Number of Effective Samples: 49.863236
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 633: -137.067452, divKL: 1.000000 
+Number of Effective Samples: 49.078472
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 634: -163.000004, divKL: 1.000000 
+Number of Effective Samples: 49.424209
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 635: -127.937016, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 636: -123.278246, divKL: 1.000000 
+Number of Effective Samples: 49.872952
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 637: -134.517928, divKL: 1.000000 
+Number of Effective Samples: 48.580832
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 638: -136.639250, divKL: 1.000000 
+Number of Effective Samples: 49.908637
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 639: -104.810224, divKL: 1.000000 
+Number of Effective Samples: 49.211003
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 640: -136.268932, divKL: 1.000000 
+Number of Effective Samples: 49.675018
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 641: -124.141975, divKL: 1.000000 
+Number of Effective Samples: 49.154310
+Feature Error: , KL: 1.000009
+Accepted solution.
+Found sufficient solution.
+Iteration 642: -137.575569, divKL: 1.000009 
+Number of Effective Samples: 49.099358
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 643: -129.134261, divKL: 1.000000 
+Number of Effective Samples: 49.852299
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 644: -170.867536, divKL: 1.000004 
+Number of Effective Samples: 49.383143
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 645: -174.561029, divKL: 1.000000 
+Number of Effective Samples: 49.999998
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 646: -156.552826, divKL: 1.000000 
+Number of Effective Samples: 49.588231
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 647: -128.837271, divKL: 1.000000 
+Number of Effective Samples: 49.683766
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 648: -149.786859, divKL: 1.000001 
+Number of Effective Samples: 49.863186
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 649: -128.054766, divKL: 1.000000 
+Number of Effective Samples: 49.564444
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 650: -142.726576, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 651: -107.830616, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 652: -119.352345, divKL: 1.000001 
+Number of Effective Samples: 49.890674
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 653: -138.436125, divKL: 1.000000 
+Number of Effective Samples: 49.999873
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 654: -122.936595, divKL: 1.000000 
+Number of Effective Samples: 49.801301
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 655: -141.156043, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999993
+Accepted solution.
+Found sufficient solution.
+Iteration 656: -94.938150, divKL: 0.999993 
+Number of Effective Samples: 49.265708
+Feature Error: , KL: 1.000015
+Accepted solution.
+Found sufficient solution.
+Iteration 657: -132.701459, divKL: 1.000015 
+Number of Effective Samples: 49.774100
+Feature Error: , KL: 0.999975
+Accepted solution.
+Found sufficient solution.
+Iteration 658: -108.577724, divKL: 0.999975 
+Number of Effective Samples: 49.973505
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 659: -135.972471, divKL: 1.000000 
+Number of Effective Samples: 49.196009
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 660: -142.080794, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 661: -148.772623, divKL: 1.000000 
+Number of Effective Samples: 49.214001
+Feature Error: , KL: 0.999977
+Accepted solution.
+Found sufficient solution.
+Iteration 662: -131.818279, divKL: 0.999977 
+Number of Effective Samples: 49.255677
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 663: -138.884550, divKL: 1.000000 
+Number of Effective Samples: 49.964044
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 664: -112.535834, divKL: 0.999999 
+Number of Effective Samples: 48.696059
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 665: -129.835158, divKL: 1.000000 
+Number of Effective Samples: 49.136986
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 666: -128.650582, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 667: -133.618932, divKL: 1.000000 
+Number of Effective Samples: 49.670859
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 668: -180.177860, divKL: 1.000000 
+Number of Effective Samples: 48.406394
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 669: -157.559831, divKL: 0.999998 
+Number of Effective Samples: 49.999952
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 670: -147.192207, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 671: -130.829018, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 672: -130.870829, divKL: 1.000000 
+Number of Effective Samples: 49.445966
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 673: -118.768986, divKL: 1.000000 
+Number of Effective Samples: 49.999973
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 674: -124.320532, divKL: 1.000000 
+Number of Effective Samples: 49.905380
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 675: -122.450260, divKL: 1.000000 
+Number of Effective Samples: 49.874904
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 676: -129.282462, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 677: -150.445511, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 678: -133.536660, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 679: -131.227928, divKL: 1.000000 
+Number of Effective Samples: 49.609646
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 680: -122.438136, divKL: 0.999999 
+Number of Effective Samples: 49.677889
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 681: -104.161896, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 682: -149.744705, divKL: 1.000000 
+Number of Effective Samples: 49.999914
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 683: -136.363693, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 684: -159.801642, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 685: -107.841220, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 686: -143.018140, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 687: -143.444294, divKL: 1.000004 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 688: -119.573469, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 689: -135.458257, divKL: 1.000000 
+Number of Effective Samples: 49.999993
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 690: -126.047411, divKL: 1.000000 
+Number of Effective Samples: 49.995006
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 691: -143.447948, divKL: 1.000000 
+Number of Effective Samples: 49.637312
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 692: -124.786167, divKL: 0.999998 
+Number of Effective Samples: 49.999979
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 693: -139.394144, divKL: 1.000000 
+Number of Effective Samples: 49.993347
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 694: -115.916271, divKL: 1.000000 
+Number of Effective Samples: 49.597973
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 695: -133.333466, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 696: -111.936531, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 697: -142.284025, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 698: -110.961702, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 699: -146.703298, divKL: 1.000000 
+Number of Effective Samples: 49.988569
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 700: -147.829914, divKL: 1.000000 
+Number of Effective Samples: 49.637839
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 701: -114.312478, divKL: 1.000000 
+Number of Effective Samples: 49.999930
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 702: -110.564651, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 703: -127.933575, divKL: 1.000000 
+Number of Effective Samples: 49.999861
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 704: -120.604847, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 705: -96.879167, divKL: 1.000008 
+Number of Effective Samples: 49.998647
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 706: -126.670225, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 707: -117.648655, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 708: -119.910070, divKL: 0.999999 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 709: -151.536179, divKL: 1.000001 
+Number of Effective Samples: 49.997704
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 710: -136.720851, divKL: 1.000000 
+Number of Effective Samples: 49.978013
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 711: -138.017266, divKL: 1.000001 
+Number of Effective Samples: 49.938201
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 712: -136.078174, divKL: 1.000000 
+Number of Effective Samples: 49.529859
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 713: -153.848917, divKL: 0.999995 
+Number of Effective Samples: 49.772446
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 714: -137.968144, divKL: 1.000001 
+Number of Effective Samples: 49.999993
+Feature Error: , KL: 0.999989
+Accepted solution.
+Found sufficient solution.
+Iteration 715: -143.642863, divKL: 0.999989 
+Number of Effective Samples: 49.996064
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 716: -157.380930, divKL: 1.000000 
+Number of Effective Samples: 49.999980
+Feature Error: , KL: 0.999981
+Accepted solution.
+Found sufficient solution.
+Iteration 717: -124.429796, divKL: 0.999981 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 718: -164.360534, divKL: 1.000000 
+Number of Effective Samples: 49.993179
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 719: -142.976245, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999987
+Accepted solution.
+Found sufficient solution.
+Iteration 720: -126.858510, divKL: 0.999987 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 721: -127.231211, divKL: 1.000000 
+Number of Effective Samples: 49.638570
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 722: -114.116234, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 723: -131.114958, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 724: -122.604539, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 725: -103.783080, divKL: 1.000000 
+Number of Effective Samples: 49.960425
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 726: -125.010175, divKL: 0.999999 
+Number of Effective Samples: 49.996750
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 727: -134.052181, divKL: 1.000000 
+Number of Effective Samples: 49.999997
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 728: -109.013020, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 729: -141.376025, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 730: -136.199720, divKL: 1.000000 
+Number of Effective Samples: 49.991625
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 731: -145.668228, divKL: 1.000000 
+Number of Effective Samples: 49.968974
+Feature Error: , KL: 1.000010
+Accepted solution.
+Found sufficient solution.
+Iteration 732: -104.915498, divKL: 1.000010 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 733: -131.753871, divKL: 1.000000 
+Number of Effective Samples: 49.993885
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 734: -149.558697, divKL: 1.000004 
+Number of Effective Samples: 49.999992
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 735: -127.998767, divKL: 1.000000 
+Number of Effective Samples: 49.972174
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 736: -108.039556, divKL: 1.000000 
+Number of Effective Samples: 49.999992
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 737: -135.678354, divKL: 1.000000 
+Number of Effective Samples: 49.997080
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 738: -125.301496, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 739: -146.994371, divKL: 1.000000 
+Number of Effective Samples: 49.905637
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 740: -124.747010, divKL: 1.000000 
+Number of Effective Samples: 49.968608
+Feature Error: , KL: 0.999992
+Accepted solution.
+Found sufficient solution.
+Iteration 741: -134.068687, divKL: 0.999992 
+Number of Effective Samples: 49.999827
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 742: -130.020636, divKL: 0.999999 
+Number of Effective Samples: 49.974547
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 743: -179.480891, divKL: 1.000000 
+Number of Effective Samples: 48.066059
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 744: -134.314879, divKL: 1.000000 
+Number of Effective Samples: 49.999953
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 745: -116.681744, divKL: 1.000000 
+Number of Effective Samples: 49.952289
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 746: -123.486539, divKL: 1.000000 
+Number of Effective Samples: 48.560791
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 747: -117.520884, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 748: -109.382610, divKL: 1.000000 
+Number of Effective Samples: 48.879987
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 749: -129.739909, divKL: 0.999994 
+Number of Effective Samples: 49.999551
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 750: -127.264993, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 751: -124.675221, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 752: -141.260082, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 753: -135.247545, divKL: 1.000000 
+Number of Effective Samples: 49.993800
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 754: -131.258363, divKL: 1.000001 
+Number of Effective Samples: 49.763548
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 755: -123.488289, divKL: 1.000000 
+Number of Effective Samples: 49.958650
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 756: -123.405440, divKL: 1.000000 
+Number of Effective Samples: 49.945913
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 757: -147.093068, divKL: 1.000002 
+Number of Effective Samples: 49.747345
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 758: -111.629479, divKL: 1.000000 
+Number of Effective Samples: 49.417839
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 759: -155.573749, divKL: 1.000000 
+Number of Effective Samples: 49.695192
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 760: -118.036869, divKL: 1.000000 
+Number of Effective Samples: 49.358126
+Feature Error: , KL: 1.000040
+Accepted solution.
+Found sufficient solution.
+Iteration 761: -146.559007, divKL: 1.000040 
+Number of Effective Samples: 49.984775
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 762: -130.701119, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 763: -124.171701, divKL: 0.999995 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 764: -148.821477, divKL: 0.999999 
+Number of Effective Samples: 49.942632
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 765: -134.459261, divKL: 0.999998 
+Number of Effective Samples: 49.998300
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 766: -147.087190, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999967
+Accepted solution.
+Found sufficient solution.
+Iteration 767: -133.121231, divKL: 0.999967 
+Number of Effective Samples: 49.977303
+Feature Error: , KL: 0.999991
+Accepted solution.
+Found sufficient solution.
+Iteration 768: -125.916639, divKL: 0.999991 
+Number of Effective Samples: 49.999389
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 769: -144.505912, divKL: 0.999999 
+Number of Effective Samples: 49.697471
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 770: -137.851870, divKL: 1.000001 
+Number of Effective Samples: 49.952420
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 771: -146.991461, divKL: 1.000000 
+Number of Effective Samples: 49.895003
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 772: -130.552267, divKL: 1.000000 
+Number of Effective Samples: 49.817208
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 773: -137.053092, divKL: 1.000000 
+Number of Effective Samples: 48.430661
+Feature Error: , KL: 0.999989
+Accepted solution.
+Found sufficient solution.
+Iteration 774: -116.658046, divKL: 0.999989 
+Number of Effective Samples: 49.971033
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 775: -116.366457, divKL: 1.000000 
+Number of Effective Samples: 49.873399
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 776: -127.958363, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 777: -135.394758, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 778: -144.367606, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 779: -141.180934, divKL: 1.000000 
+Number of Effective Samples: 49.577183
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 780: -142.591983, divKL: 0.999999 
+Number of Effective Samples: 49.575673
+Feature Error: , KL: 0.999951
+Accepted solution.
+Found sufficient solution.
+Iteration 781: -124.053777, divKL: 0.999951 
+Number of Effective Samples: 49.989729
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 782: -122.300460, divKL: 1.000000 
+Number of Effective Samples: 49.913269
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 783: -141.642549, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 784: -112.188094, divKL: 1.000000 
+Number of Effective Samples: 49.986236
+Feature Error: , KL: 1.000010
+Accepted solution.
+Found sufficient solution.
+Iteration 785: -150.409495, divKL: 1.000010 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 786: -110.491979, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 787: -125.279301, divKL: 1.000000 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 0.999988
+Accepted solution.
+Found sufficient solution.
+Iteration 788: -129.015780, divKL: 0.999988 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999970
+Accepted solution.
+Found sufficient solution.
+Iteration 789: -119.613655, divKL: 0.999970 
+Number of Effective Samples: 49.462449
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 790: -146.122873, divKL: 1.000000 
+Number of Effective Samples: 49.907857
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 791: -113.933150, divKL: 0.999996 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 792: -126.356320, divKL: 1.000000 
+Number of Effective Samples: 49.999998
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 793: -119.704393, divKL: 1.000007 
+Number of Effective Samples: 49.995618
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 794: -142.600939, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 795: -131.638923, divKL: 1.000000 
+Number of Effective Samples: 49.999967
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 796: -136.363637, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 797: -134.363922, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 798: -141.160730, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 799: -118.380511, divKL: 1.000000 
+Number of Effective Samples: 49.933674
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 800: -151.957622, divKL: 1.000000 
+Number of Effective Samples: 49.630229
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 801: -119.715668, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 802: -116.922184, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 803: -111.544746, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 804: -121.529693, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 805: -131.502358, divKL: 1.000000 
+Number of Effective Samples: 49.874724
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 806: -128.313908, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 807: -141.274397, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 808: -154.053249, divKL: 1.000000 
+Number of Effective Samples: 49.481532
+Feature Error: , KL: 0.999985
+Accepted solution.
+Found sufficient solution.
+Iteration 809: -125.675525, divKL: 0.999985 
+Number of Effective Samples: 49.950623
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 810: -124.448309, divKL: 1.000005 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 811: -144.678994, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 812: -118.737059, divKL: 1.000000 
+Number of Effective Samples: 49.894525
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 813: -112.742107, divKL: 1.000000 
+Number of Effective Samples: 49.067912
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 814: -132.204319, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999941
+Accepted solution.
+Found sufficient solution.
+Iteration 815: -119.236170, divKL: 0.999941 
+Number of Effective Samples: 49.969770
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 816: -137.434930, divKL: 1.000000 
+Number of Effective Samples: 49.965731
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 817: -147.517719, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 818: -137.901859, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 819: -150.904960, divKL: 1.000000 
+Number of Effective Samples: 49.979114
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 820: -125.404084, divKL: 1.000000 
+Number of Effective Samples: 49.984727
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 821: -139.603289, divKL: 1.000000 
+Number of Effective Samples: 49.983575
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 822: -138.529059, divKL: 1.000000 
+Number of Effective Samples: 49.952292
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 823: -129.721473, divKL: 1.000000 
+Number of Effective Samples: 49.837914
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 824: -114.757945, divKL: 1.000000 
+Number of Effective Samples: 49.971839
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 825: -129.593061, divKL: 0.999999 
+Number of Effective Samples: 49.853515
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 826: -97.658116, divKL: 0.999997 
+Number of Effective Samples: 49.217770
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 827: -108.804675, divKL: 1.000000 
+Number of Effective Samples: 49.623644
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 828: -118.529940, divKL: 1.000000 
+Number of Effective Samples: 48.682117
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 829: -156.122933, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 830: -145.338235, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999986
+Accepted solution.
+Found sufficient solution.
+Iteration 831: -131.280336, divKL: 0.999986 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 832: -120.841072, divKL: 1.000000 
+Number of Effective Samples: 49.864765
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 833: -112.652215, divKL: 1.000001 
+Number of Effective Samples: 49.835936
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 834: -130.293088, divKL: 1.000000 
+Number of Effective Samples: 49.842147
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 835: -137.211774, divKL: 1.000000 
+Number of Effective Samples: 48.894910
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 836: -112.311383, divKL: 0.999996 
+Number of Effective Samples: 49.430137
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 837: -125.410997, divKL: 1.000000 
+Number of Effective Samples: 48.894649
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 838: -128.878342, divKL: 1.000003 
+Number of Effective Samples: 49.951120
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 839: -152.179221, divKL: 1.000002 
+Number of Effective Samples: 48.197819
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 840: -126.657704, divKL: 1.000000 
+Number of Effective Samples: 49.927587
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 841: -176.355162, divKL: 1.000000 
+Number of Effective Samples: 48.152645
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 842: -149.829204, divKL: 0.999999 
+Number of Effective Samples: 47.385487
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 843: -150.637136, divKL: 1.000000 
+Number of Effective Samples: 49.998777
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 844: -134.367905, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 845: -124.533163, divKL: 1.000001 
+Number of Effective Samples: 49.559126
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 846: -119.213332, divKL: 1.000000 
+Number of Effective Samples: 49.900877
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 847: -122.408851, divKL: 1.000000 
+Number of Effective Samples: 49.258942
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 848: -170.816472, divKL: 0.999998 
+Number of Effective Samples: 47.632509
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 849: -139.877019, divKL: 1.000000 
+Number of Effective Samples: 46.967623
+Feature Error: , KL: 0.999986
+Accepted solution.
+Found sufficient solution.
+Iteration 850: -99.680270, divKL: 0.999986 
+Number of Effective Samples: 49.947675
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 851: -154.521631, divKL: 1.000007 
+Number of Effective Samples: 49.894207
+Feature Error: , KL: 0.999988
+Accepted solution.
+Found sufficient solution.
+Iteration 852: -145.476151, divKL: 0.999988 
+Number of Effective Samples: 48.899131
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 853: -161.989986, divKL: 1.000000 
+Number of Effective Samples: 47.566569
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 854: -114.827503, divKL: 1.000000 
+Number of Effective Samples: 48.759306
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 855: -127.753414, divKL: 1.000000 
+Number of Effective Samples: 48.389208
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 856: -126.030153, divKL: 1.000000 
+Number of Effective Samples: 49.877954
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 857: -147.670203, divKL: 1.000000 
+Number of Effective Samples: 48.297821
+Feature Error: , KL: 0.999977
+Accepted solution.
+Found sufficient solution.
+Iteration 858: -143.098192, divKL: 0.999977 
+Number of Effective Samples: 49.237927
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 859: -120.390595, divKL: 1.000000 
+Number of Effective Samples: 47.219865
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 860: -150.178360, divKL: 1.000007 
+Number of Effective Samples: 49.700165
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 861: -139.346732, divKL: 1.000000 
+Number of Effective Samples: 47.623362
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 862: -165.706393, divKL: 1.000000 
+Number of Effective Samples: 46.983461
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 863: -115.043434, divKL: 1.000000 
+Number of Effective Samples: 49.976773
+Feature Error: , KL: 1.000004
+Accepted solution.
+Found sufficient solution.
+Iteration 864: -140.780679, divKL: 1.000004 
+Number of Effective Samples: 48.900850
+Feature Error: , KL: 0.999976
+Accepted solution.
+Found sufficient solution.
+Iteration 865: -113.682459, divKL: 0.999976 
+Number of Effective Samples: 49.362041
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 866: -133.273958, divKL: 1.000000 
+Number of Effective Samples: 47.172711
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 867: -167.756742, divKL: 1.000000 
+Number of Effective Samples: 47.866200
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 868: -106.190142, divKL: 1.000000 
+Number of Effective Samples: 49.837134
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 869: -123.957317, divKL: 0.999999 
+Number of Effective Samples: 48.104446
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 870: -142.576945, divKL: 1.000008 
+Number of Effective Samples: 48.832751
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 871: -120.950231, divKL: 1.000000 
+Number of Effective Samples: 46.172957
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 872: -150.913423, divKL: 0.999998 
+Number of Effective Samples: 49.640843
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 873: -141.020126, divKL: 1.000001 
+Number of Effective Samples: 48.099775
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 874: -115.190901, divKL: 1.000000 
+Number of Effective Samples: 49.089010
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 875: -110.125196, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 876: -127.530361, divKL: 1.000000 
+Number of Effective Samples: 49.760023
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 877: -114.924658, divKL: 1.000000 
+Number of Effective Samples: 48.955723
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 878: -104.563548, divKL: 1.000000 
+Number of Effective Samples: 48.259224
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 879: -132.804425, divKL: 1.000000 
+Number of Effective Samples: 49.915430
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 880: -135.811585, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 881: -139.684194, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 882: -131.956028, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 883: -137.455662, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 884: -125.946990, divKL: 0.999996 
+Number of Effective Samples: 49.998629
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 885: -88.601538, divKL: 1.000000 
+Number of Effective Samples: 49.912983
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 886: -140.979778, divKL: 1.000002 
+Number of Effective Samples: 49.999994
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 887: -92.875045, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 888: -123.894911, divKL: 1.000000 
+Number of Effective Samples: 49.981686
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 889: -137.584592, divKL: 1.000000 
+Number of Effective Samples: 49.442934
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 890: -115.358993, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 891: -168.689148, divKL: 1.000001 
+Number of Effective Samples: 49.953534
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 892: -149.250304, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 893: -120.927078, divKL: 1.000000 
+Number of Effective Samples: 49.999672
+Feature Error: , KL: 0.999993
+Accepted solution.
+Found sufficient solution.
+Iteration 894: -126.135090, divKL: 0.999993 
+Number of Effective Samples: 49.999183
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 895: -123.572568, divKL: 1.000000 
+Number of Effective Samples: 49.926205
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 896: -124.900577, divKL: 1.000000 
+Number of Effective Samples: 49.970616
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 897: -106.460664, divKL: 1.000005 
+Number of Effective Samples: 49.999874
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 898: -159.797979, divKL: 1.000000 
+Number of Effective Samples: 49.042188
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 899: -143.718172, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 900: -141.538294, divKL: 0.999998 
+Number of Effective Samples: 49.759402
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 901: -129.552337, divKL: 1.000007 
+Number of Effective Samples: 49.998745
+Feature Error: , KL: 0.999971
+Accepted solution.
+Found sufficient solution.
+Iteration 902: -97.304305, divKL: 0.999971 
+Number of Effective Samples: 49.991463
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 903: -127.484006, divKL: 1.000000 
+Number of Effective Samples: 49.999827
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 904: -104.132292, divKL: 0.999999 
+Number of Effective Samples: 49.993179
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 905: -150.480094, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000038
+Accepted solution.
+Found sufficient solution.
+Iteration 906: -97.256051, divKL: 1.000038 
+Number of Effective Samples: 49.969340
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 907: -135.674143, divKL: 1.000000 
+Number of Effective Samples: 49.679108
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 908: -146.301385, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 909: -126.745426, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 910: -144.480749, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 911: -142.059690, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 912: -119.021849, divKL: 0.999998 
+Number of Effective Samples: 49.997008
+Feature Error: , KL: 1.000007
+Accepted solution.
+Found sufficient solution.
+Iteration 913: -92.612450, divKL: 1.000007 
+Number of Effective Samples: 49.908140
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 914: -148.161674, divKL: 1.000000 
+Number of Effective Samples: 49.897258
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 915: -109.497904, divKL: 0.999996 
+Number of Effective Samples: 49.692031
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 916: -129.289330, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 917: -149.297252, divKL: 1.000000 
+Number of Effective Samples: 49.998230
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 918: -122.430103, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 919: -152.882914, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 920: -147.111210, divKL: 1.000000 
+Number of Effective Samples: 49.995898
+Feature Error: , KL: 1.000018
+Accepted solution.
+Found sufficient solution.
+Iteration 921: -159.566778, divKL: 1.000018 
+Number of Effective Samples: 49.998761
+Feature Error: , KL: 0.999991
+Accepted solution.
+Found sufficient solution.
+Iteration 922: -113.023626, divKL: 0.999991 
+Number of Effective Samples: 49.988490
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 923: -125.546770, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 924: -137.355788, divKL: 1.000002 
+Number of Effective Samples: 49.732557
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 925: -142.028978, divKL: 1.000002 
+Number of Effective Samples: 49.999708
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 926: -101.225733, divKL: 0.999997 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 927: -149.978713, divKL: 1.000000 
+Number of Effective Samples: 49.997617
+Feature Error: , KL: 0.999987
+Accepted solution.
+Found sufficient solution.
+Iteration 928: -127.784975, divKL: 0.999987 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000008
+Accepted solution.
+Found sufficient solution.
+Iteration 929: -118.689981, divKL: 1.000008 
+Number of Effective Samples: 49.981359
+Feature Error: , KL: 1.000009
+Accepted solution.
+Found sufficient solution.
+Iteration 930: -146.565562, divKL: 1.000009 
+Number of Effective Samples: 49.999422
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 931: -132.835875, divKL: 0.999999 
+Number of Effective Samples: 49.701435
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 932: -122.245907, divKL: 1.000003 
+Number of Effective Samples: 49.986612
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 933: -126.779784, divKL: 1.000003 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 934: -121.699460, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 935: -123.614481, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999997
+Accepted solution.
+Found sufficient solution.
+Iteration 936: -122.280647, divKL: 0.999997 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 937: -149.355065, divKL: 1.000000 
+Number of Effective Samples: 49.527132
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 938: -98.755083, divKL: 1.000000 
+Number of Effective Samples: 49.968936
+Feature Error: , KL: 1.000006
+Accepted solution.
+Found sufficient solution.
+Iteration 939: -182.904846, divKL: 1.000006 
+Number of Effective Samples: 49.999719
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 940: -145.194411, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 941: -151.136995, divKL: 1.000000 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 942: -99.609033, divKL: 0.999998 
+Number of Effective Samples: 49.995266
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 943: -138.025073, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000003
+Accepted solution.
+Found sufficient solution.
+Iteration 944: -158.161447, divKL: 1.000003 
+Number of Effective Samples: 49.990199
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 945: -121.565662, divKL: 1.000000 
+Number of Effective Samples: 49.957018
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 946: -141.106590, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999947
+Accepted solution.
+Found sufficient solution.
+Iteration 947: -94.158812, divKL: 0.999947 
+Number of Effective Samples: 49.999098
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 948: -122.302263, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 949: -138.987077, divKL: 1.000000 
+Number of Effective Samples: 49.632527
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 950: -106.847670, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 951: -146.100849, divKL: 1.000000 
+Number of Effective Samples: 49.999981
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 952: -153.236521, divKL: 1.000000 
+Number of Effective Samples: 49.970704
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 953: -134.317148, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 954: -122.512266, divKL: 1.000000 
+Number of Effective Samples: 49.987638
+Feature Error: , KL: 1.000005
+Accepted solution.
+Found sufficient solution.
+Iteration 955: -145.474719, divKL: 1.000005 
+Number of Effective Samples: 49.358247
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 956: -156.365089, divKL: 1.000000 
+Number of Effective Samples: 49.738038
+Feature Error: , KL: 0.999995
+Accepted solution.
+Found sufficient solution.
+Iteration 957: -119.389642, divKL: 0.999995 
+Number of Effective Samples: 49.906698
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 958: -99.599574, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 959: -161.446300, divKL: 1.000000 
+Number of Effective Samples: 48.933059
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 960: -135.786004, divKL: 1.000000 
+Number of Effective Samples: 49.356367
+Feature Error: , KL: 0.999996
+Accepted solution.
+Found sufficient solution.
+Iteration 961: -121.043756, divKL: 0.999996 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 962: -131.726591, divKL: 1.000001 
+Number of Effective Samples: 49.685294
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 963: -125.552425, divKL: 0.999999 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 964: -114.509399, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999994
+Accepted solution.
+Found sufficient solution.
+Iteration 965: -105.979915, divKL: 0.999994 
+Number of Effective Samples: 49.993872
+Feature Error: , KL: 1.000013
+Accepted solution.
+Found sufficient solution.
+Iteration 966: -151.171597, divKL: 1.000013 
+Number of Effective Samples: 49.979246
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 967: -147.435936, divKL: 1.000000 
+Number of Effective Samples: 49.982654
+Feature Error: , KL: 0.999991
+Accepted solution.
+Found sufficient solution.
+Iteration 968: -120.869220, divKL: 0.999991 
+Number of Effective Samples: 49.657415
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 969: -126.591507, divKL: 1.000000 
+Number of Effective Samples: 49.971570
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 970: -152.819544, divKL: 1.000000 
+Number of Effective Samples: 49.993920
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 971: -148.368040, divKL: 1.000000 
+Number of Effective Samples: 49.999941
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 972: -119.447822, divKL: 0.999999 
+Number of Effective Samples: 49.995405
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 973: -134.090126, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 974: -136.203613, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 975: -137.866683, divKL: 1.000000 
+Number of Effective Samples: 49.994980
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 976: -126.357253, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 977: -152.956437, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999999
+Accepted solution.
+Found sufficient solution.
+Iteration 978: -135.829526, divKL: 0.999999 
+Number of Effective Samples: 49.999994
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 979: -161.024193, divKL: 1.000002 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 980: -122.433330, divKL: 1.000000 
+Number of Effective Samples: 49.999518
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 981: -120.220498, divKL: 1.000000 
+Number of Effective Samples: 49.997083
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 982: -156.499184, divKL: 1.000000 
+Number of Effective Samples: 49.999490
+Feature Error: , KL: 0.999998
+Accepted solution.
+Found sufficient solution.
+Iteration 983: -115.870636, divKL: 0.999998 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 984: -131.446146, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 985: -116.986684, divKL: 1.000000 
+Number of Effective Samples: 49.986325
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 986: -146.848173, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 987: -153.549921, divKL: 1.000000 
+Number of Effective Samples: 49.999998
+Feature Error: , KL: 0.999992
+Accepted solution.
+Found sufficient solution.
+Iteration 988: -136.710014, divKL: 0.999992 
+Number of Effective Samples: 49.978241
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 989: -129.987237, divKL: 1.000000 
+Number of Effective Samples: 49.999999
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 990: -148.267934, divKL: 1.000001 
+Number of Effective Samples: 49.985046
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 991: -116.140438, divKL: 1.000000 
+Number of Effective Samples: 49.999830
+Feature Error: , KL: 1.000001
+Accepted solution.
+Found sufficient solution.
+Iteration 992: -114.373813, divKL: 1.000001 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 993: -130.401830, divKL: 1.000000 
+Number of Effective Samples: 49.999785
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 994: -132.109172, divKL: 1.000000 
+Number of Effective Samples: 49.999670
+Feature Error: , KL: 1.000002
+Accepted solution.
+Found sufficient solution.
+Iteration 995: -149.732105, divKL: 1.000002 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 0.999976
+Accepted solution.
+Found sufficient solution.
+Iteration 996: -139.924463, divKL: 0.999976 
+Number of Effective Samples: 49.998912
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 997: -108.368404, divKL: 1.000000 
+Number of Effective Samples: 50.000000
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 998: -148.863593, divKL: 1.000000 
+Number of Effective Samples: 49.999993
+Feature Error: , KL: 1.000000
+Accepted solution.
+Found sufficient solution.
+Iteration 999: -135.853408, divKL: 1.000000 
+Number of Effective Samples: 49.953396
+Feature Error: , KL: 0.999986
+Accepted solution.
+Found sufficient solution.
+Iteration 1000: -123.269112, divKL: 0.999986 

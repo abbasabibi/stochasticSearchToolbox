@@ -1,0 +1,32 @@
+#!/bin/sh
+
+# Job name
+#BSUB -J §§experimentName§§[1-§§numJobs§§]%§§numParallelJobs§§
+
+
+# logfiles
+#BSUB -o §§experimentPath§§/out_%J_%I.log
+#BSUB -e §§experimentPath§§/err_%J_%I.log
+
+# request computation time hh:mm
+#BSUB -W §§computationTime§§
+
+# request virtual memory in MB
+#BSUB -M 32768
+
+# contact when start
+# #BSUB -u your_email_address
+
+# get an exclusive node
+#BSUB -x
+
+# set number of cores
+#BSUB -n 16
+
+
+cd ~/policysearchtoolbox
+
+module load matlab
+module load gurobi/5.6.3
+
+matlab -nosplash -nojvm -nodesktop -nodisplay -r "experiment = Experiments.Experiment.getByPath('§§experimentPath§§'); experiment.startCluster(§§clusterJobID§§,times(($LSB_JOBINDEX - 1),§§jobsPerNode§§) + §§jobOffset§§); exit;"&
